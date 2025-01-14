@@ -2,8 +2,8 @@
 
 ### 首页
 
-![index](assets\index.jpg)
+![index](assets/index.jpg)
 
 ### 设置
 
-![setting](assets\setting.jpg)
+![setting](assets/setting.jpg)
